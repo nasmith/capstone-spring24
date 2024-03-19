@@ -19,7 +19,7 @@ description: >-
 ## Goals of the Course
 
 
-This class will provide students with an intensive 10-week experience in successfully completing a challenging, well-scoped research project.
+This class will provide students with an intensive 10-week experience in successfully completing a challenging, well-scoped research project on a topic related to natural language processing and its many applications.
 
 Participants will work in small groups (approximately 3 people in each group) to hone their technical skills to quickly absorb and adapt new technical knowledge, gain experience in complex programming, perform thorough experiments and analysis, and learn how to find a path when faced with negative results.
 
