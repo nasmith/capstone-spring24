@@ -3,19 +3,19 @@ title:  Execution Part 1
 ---
 
 Th Apr 11
-: Class meeting: first updates from teams 1, 2, and 3.  Remember:  you are required to use no more than three slides (including the title slide) for each update.  
+: Class meeting:  no official class meeting; feel free to use our classroom as a workspace during normal class time.
 
 T Apr 16
-: Class meeting: first updates from teams 4 and 5.  Remember:  you are required to use no more than three slides (including the title slide) for each update.  Report #4 is due at 11:59 pm.  For option D projects, you should complete at least one strawman/baseline approach, run experiments, and set up the evaluation framework.  For option R projects, update on your progress since the last report.  Submit as an Ed post  **deadline**{: .label .label-red }
+: Class meeting: first updates from some teams.  Remember:  you are required to use no more than three slides (including the title slide) for each update.  Remember:  you are required to use no more than three slides (including the title slide) for each update.  Report #4 is due at 11:59 pm.  For option D projects, you should complete at least one strawman/baseline approach, run experiments, and set up the evaluation framework.  For option R projects, update on your progress since the last report.  Submit as an Ed post  **deadline**{: .label .label-red }
 
 Th Apr 18
-: Class meeting.  Report #5 is due at 11:59.  You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far.  These reports will only be seen by course staff.  [Use this template](https://www.overleaf.com/read/kypkrmpbgsvz) and submit through Canvas.  **deadline**{: .label .label-red }
+: Class meeting: first updates from the rest of the teams.  Report #5 is due at 11:59.  You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far.  These reports will only be seen by course staff.  [Use this template](https://www.overleaf.com/read/kypkrmpbgsvz) and submit through Canvas.  **deadline**{: .label .label-red }
 
 T Apr 23
-: Class meeting:  second updates from teams 1, 2, and 3.
+: Class meeting:  second updates from some teams.
 
 Th Apr 25
-: Class meeting:  second updates from teams 4 and 5.  Report #6 is due at 11:59 pm.  For option D projects, you should have completed multiple strawman/baseline approaches, recorded their performance, and performed error analysis; you should report on your first advanced solution attempt. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next?   For option R projects, update on your progress since the last report.  Submit as an Ed post.  **deadline**{: .label .label-red }
+: Class meeting:  second updates from the rest of the teams..  Report #6 is due at 11:59 pm.  For option D projects, you should have completed multiple strawman/baseline approaches, recorded their performance, and performed error analysis; you should report on your first advanced solution attempt. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next?   For option R projects, update on your progress since the last report.  Submit as an Ed post.  **deadline**{: .label .label-red }
 
 T Apr 30
 : Class meeting:  no official class meeting; feel free to use our classroom as a workspace during normal class time.
