@@ -19,8 +19,8 @@ seo:
  
 ## Coordinates
 
-Class meets in person, Tuesdays and Thursdays, 11:30 am to 12:50 pm, in
-[NAN](https://www.washington.edu/maps/#!/NAN) 181.  Office hours
+Class meets in person, Tuesdays and Thursdays, 11:30 am to 12:50 pm, in Gates G04 (starting April 4; original room
+[NAN](https://www.washington.edu/maps/#!/NAN) 181 through April 2).  Office hours
 are by appointment; email the instructor or TA directly.
 
 ## Useful Links
