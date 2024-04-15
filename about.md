@@ -47,9 +47,9 @@ Students will be evaluated as follows:
 1.  Reports (ten at 4% each, shared by the team with the exception of reports #5 and #9 which are individual; extra 5% to project proposal and extra 5% to final report)
 1.  Five-minute updates (short talks given in lecture; four at 4% each, shared by the team)
 1.  Final video or poster presentation (14%)
-1.  Feedback to other teams’ reports and presentations (20%)
+1.  Feedback to other teams’ presentations (20%)
 
-Your team may use up to three penalty-free late days (total, not per report) for reports #4, #6, #7, and #8.  (No late days are allowed for reports #1-3, individual reports #5 and 9, or the final report #10).  Work turned in late after the late days are used up will get a zero grade.  Feedback to other teams will only count if it is provided within twenty-four hours of their blog post or in-class presentation. 
+Your team may use up to three penalty-free late days (total, not per report) for reports #4, #6, #7, and #8.  (No late days are allowed for reports #1-3, individual reports #5 and 9, or the final report #10).  Work turned in late after the late days are used up will get a zero grade.  Feedback to other teams' presentations will be tracked on presentation days.  Giving feedback to other teams' reports on Ed is also encouraged since it will lead to more informed questions in class.
 
 ## Hardware
 
