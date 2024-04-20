@@ -15,7 +15,7 @@ T Apr 23
 : Class meeting:  second updates from some teams.
 
 Th Apr 25
-: Class meeting:  second updates from the rest of the teams..  Report #6 is due at 11:59 pm.  For option D projects, you should have completed multiple strawman/baseline approaches, recorded their performance, and performed error analysis; you should report on your first advanced solution attempt. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next?   For option R projects, update on your progress since the last report.  Submit as an Ed post.  **deadline**{: .label .label-red }
+: Class meeting:  second updates from the rest of the teams.  Report #6 is due at 11:59 pm.  For option D projects, you should have completed multiple strawman/baseline approaches, recorded their performance, and performed error analysis; you should report on your first advanced solution attempt. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next?   For option R projects, update on your progress since the last report.  Submit as an Ed post.  **deadline**{: .label .label-red }
 
 T Apr 30
 : Class meeting:  no official class meeting; feel free to use our classroom as a workspace during normal class time.
