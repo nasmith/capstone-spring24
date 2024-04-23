@@ -3,7 +3,7 @@ title:  Execution Part 2
 ---
 
 T May 14
-: Class meeting: TBD.
+: Class meeting: mini-lecture from [Orevaoghene Ahia](https://orevaahia.github.io/) on tokenization.
 
 Th May 16
 : Class meeting:  no official class meeting; feel free to use our classroom as a workspace during normal class time.  Report #9 is due at 11:59.  You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far.  These reports will only be seen by course staff.  [Use this template](https://www.overleaf.com/read/kypkrmpbgsvz) and submit through Canvas.  **deadline**{: .label .label-red }
