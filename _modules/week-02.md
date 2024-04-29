@@ -21,10 +21,10 @@ T Apr 30
 : Class meeting:  no official class meeting; feel free to use our classroom as a workspace during normal class time.
 
 Th May 02
-: Class meeting:  third updates from some teams. Report #7 is due at 11:59 pm.  For option D projects, you should continue advanced solution attempt #1, run more experiments, do more error analysis, and sketch out the next action plan. For option R projects, update on your progress since the last report.   Submit as an Ed post.  **deadline**{: .label .label-red }
+: Class meeting:  third updates. Report #7 is due at 11:59 pm.  For option D projects, you should continue advanced solution attempt #1, run more experiments, do more error analysis, and sketch out the next action plan. For option R projects, update on your progress since the last report.   Submit as an Ed post.  **deadline**{: .label .label-red }
 
 T May 07
-: Class meeting:  third updates from the rest of the teams.  
+: Class meeting:  in-class working time.
 
 Th May 09
 : Class meeting:  team working time.  Report #8 is due at 11:59 pm.   For option D projects, you should report on your second advanced solution attempt.  For option R projects, this report is a first version of your final report; see instructions.  Submit as an Ed post with an externally linked or attached pdf and on Canvas. **deadline**{: .label .label-red }
